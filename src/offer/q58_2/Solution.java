@@ -1,4 +1,4 @@
-package offer.q58;
+package offer.q58_2;
 
 /**
  * @author HP
